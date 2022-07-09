@@ -72,7 +72,7 @@
 	"composition": ["Arabica", "Robusta"],
 	"origin": ["Mainly South America", "Africa"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/4.jpg"
+	"image": "img/4.webp"
   },
   {
     "id": 5,
@@ -87,7 +87,7 @@
 	"composition": ["Arabica"],
 	"origin": ["Mainly Central and South America"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/4.webp"
+	"image": "img/5.webp"
   },
   {
     "id": 6,
@@ -102,7 +102,7 @@
 	"composition": ["Arabica"],
 	"origin": ["Mainly South America", "Africa"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/5.webp"
+	"image": "img/6.webp"
   },
   {
     "id": 7,
