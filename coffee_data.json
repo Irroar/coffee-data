@@ -12,7 +12,7 @@
 	"composition": ["Arabica", "Robusta"],
 	"origin": ["Mainly South America", "Africa"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/0.webp"
+	"image": "img/0.png"
   },
   {
     "id": 1,
@@ -27,7 +27,7 @@
 	"composition": ["Arabica"],
 	"origin": ["Central and South America"],
 	"processing": "1600 m",
-	"image": "img/1.webp"
+	"image": "img/1.png"
   },
   {
     "id": 2,
@@ -42,7 +42,7 @@
 	"composition": ["Arabica", "Robusta"],
 	"origin": ["Mainly South America", "Africa"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/2.webp"
+	"image": "img/2.png"
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
 	"composition": ["Arabica"],
 	"origin": ["Mainly South America", "Africa"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/3.webp"
+	"image": "img/3.png"
   },
   {
     "id": 4,
@@ -72,7 +72,7 @@
 	"composition": ["Arabica", "Robusta"],
 	"origin": ["Mainly South America", "Africa"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/4.webp"
+	"image": "img/4.png"
   },
   {
     "id": 5,
@@ -87,7 +87,7 @@
 	"composition": ["Arabica"],
 	"origin": ["Mainly Central and South America"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/5.webp"
+	"image": "img/5.png"
   },
   {
     "id": 6,
@@ -102,7 +102,7 @@
 	"composition": ["Arabica"],
 	"origin": ["Mainly South America", "Africa"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/6.webp"
+	"image": "img/6.png"
   },
   {
     "id": 7,
@@ -117,7 +117,7 @@
 	"composition": ["Organic Arabica"],
 	"origin": ["Peru"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/7.webp"
+	"image": "img/7.png"
   },
   {
     "id": 8,
@@ -132,7 +132,7 @@
 	"composition": ["Organic Arabica"],
 	"origin": ["Peru"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/8.webp"
+	"image": "img/8.png"
   },
   {
     "id": 9,
@@ -147,7 +147,7 @@
 	"composition": ["Arabica", "Robusta"],
 	"origin": ["South America", "Africa"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/9.webp"
+	"image": "img/9.png"
   },
   {
     "id": 10,
@@ -162,7 +162,7 @@
 	"composition": ["Arabica"],
 	"origin": ["South America"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/10.webp"
+	"image": "img/10.png"
   },
   {
     "id": 11,
@@ -177,7 +177,7 @@
 	"composition": ["Arabica"],
 	"origin": ["Central America", "South America"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/11.webp"
+	"image": "img/11.png"
   },
   {
     "id": 12,
@@ -192,7 +192,7 @@
 	"composition": ["Arabica", "Robusta"],
 	"origin": ["Mainly South America", "Africa"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/12.webp"
+	"image": "img/12.png"
   },
   {
     "id": 13,
@@ -207,7 +207,7 @@
 	"composition": ["Arabica", "Robusta"],
 	"origin": ["Brazil", "Africa", "Southeast Asia"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/13.webp"
+	"image": "img/13.png"
   },
   {
     "id": 14,
@@ -222,7 +222,7 @@
 	"composition": ["Arabica"],
 	"origin": ["Central America", "South America"],
 	"processing": "1600 m",
-	"image": "img/14.webp"
+	"image": "img/14.png"
   },
   {
     "id": 15,
@@ -237,7 +237,7 @@
 	"composition": ["Arabica", "Robusta"],
 	"origin": ["South America", "Southeast Asia"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/15.webp"
+	"image": "img/15.png"
   },
   {
     "id": 16,
@@ -252,7 +252,7 @@
 	"composition": ["Arabica"],
 	"origin": ["South America"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/16.webp"
+	"image": "img/16.png"
   },
   {
     "id": 17,
@@ -267,7 +267,7 @@
 	"composition": ["Arabica"],
 	"origin": ["Central America", "South America"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/17.webp"
+	"image": "img/17.png"
   },
   {
     "id": 18,
@@ -282,7 +282,7 @@
 	"composition": ["Arabica", "Robusta"],
 	"origin": ["Africa", "South America", "Central America"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/18.webp"
+	"image": "img/18.png"
   },
   {
     "id": 19,
@@ -297,7 +297,7 @@
 	"composition": ["Arabica"],
 	"origin": ["South America", "Africa", "Asia"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/19.webp"
+	"image": "img/19.png"
   },
   {
     "id": 20,
@@ -312,7 +312,7 @@
 	"composition": ["Arabica", "Robusta"],
 	"origin": ["Southeast Asia", "Brazil", "India"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/20.webp"
+	"image": "img/20.png"
   },
   {
     "id": 21,
@@ -327,7 +327,7 @@
 	"composition": ["Arabica", "Robusta"],
 	"origin": ["South America", "Africa"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/21.webp"
+	"image": "img/21.png"
   },
   {
     "id": 22,
@@ -342,7 +342,7 @@
 	"composition": ["Arabica"],
 	"origin": ["Central America", "South America"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/22.webp"
+	"image": "img/22.png"
   },
   {
     "id": 23,
@@ -357,7 +357,7 @@
 	"composition": ["Arabica"],
 	"origin": ["Central America", "South America"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/23.webp"
+	"image": "img/23.png"
   },
   {
     "id": 24,
@@ -372,7 +372,7 @@
 	"composition": ["Arabica", "Robusta"],
 	"origin": ["Mainly South America", "South-East Africa"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/24.webp"
+	"image": "img/24.png"
   },
   {
     "id": 25,
@@ -387,7 +387,7 @@
 	"composition": ["Arabica"],
 	"origin": ["Central America", "South America"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/25.webp"
+	"image": "img/25.png"
   },
   {
     "id": 26,
@@ -402,7 +402,7 @@
 	"composition": ["Arabica", "Robusta"],
 	"origin": ["South America", "Africa"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/26.webp"
+	"image": "img/26.png"
   },
   {
     "id": 27,
@@ -417,7 +417,7 @@
 	"composition": ["Arabica"],
 	"origin": ["Central America", "South America"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/27.webp"
+	"image": "img/27.png"
   },
   {
     "id": 28,
@@ -432,7 +432,7 @@
 	"composition": ["Arabica", "Robusta"],
 	"origin": ["Central America", "South America", "Southeast Asia"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/28.webp"
+	"image": "img/28.png"
   },
   {
     "id": 29,
@@ -447,7 +447,7 @@
 	"composition": ["Arabica"],
 	"origin": ["South America"],
 	"processing": "Settimo Torinese, Italy – Lavérune, France",
-	"image": "img/29.webp"
+	"image": "img/29.png"
   },
   {
     "id": 30,
@@ -462,7 +462,7 @@
 	"composition": ["Arabica", "Robusta"],
 	"origin": ["Brazil", "Southeast Asia"],
 	"processing": "Settimo Torinese, Italy – Lavérune, France",
-	"image": "img/30.webp"
+	"image": "img/30.png"
   },
   {
     "id": 31,
@@ -477,7 +477,7 @@
 	"composition": ["Arabica"],
 	"origin": ["Brazil", "South America"],
 	"processing": "Settimo Torinese, Italy – Lavérune, France",
-	"image": "img/31.webp"
+	"image": "img/31.png"
   },
   {
     "id": 32,
@@ -492,7 +492,7 @@
 	"composition": ["Arabica", "Robusta"],
 	"origin": ["Brazil", "South America"],
 	"processing": "Settimo Torinese, Italy – Lavérune, France",
-	"image": "img/32.webp"
+	"image": "img/32.png"
   },
   {
     "id": 33,
@@ -507,7 +507,7 @@
 	"composition": ["Arabica", "Robusta"],
 	"origin": ["Brazil", "South America"],
 	"processing": "Settimo Torinese, Italy – Lavérune, France",
-	"image": "img/33.webp"
+	"image": "img/33.png"
   },
   {
     "id": 34,
@@ -522,7 +522,7 @@
 	"composition": ["Arabica", "Robusta"],
 	"origin": ["Mainly South America", "Africa"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/34.webp"
+	"image": "img/34.png"
   },
   {
     "id": 35,
@@ -537,6 +537,6 @@
 	"composition": ["Arabica", "Robusta"],
 	"origin": ["Mainly South America", "Africa"],
 	"processing": "Settimo Torinese, Italy",
-	"image": "img/35.webp"
+	"image": "img/35.png"
   }
 ]
